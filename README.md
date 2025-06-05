@@ -1,11 +1,11 @@
 # Task-7-SVM
-# SVM Classification on Breast Cancer Dataset 🧠
+# SVM Classification on Breast Cancer Dataset 
 
 To build and compare **Linear** and **Non-linear (RBF kernel)** Support Vector Machine (SVM) models for binary classification on the Breast Cancer Wisconsin Diagnostic dataset using Python.
 
 ---
 
-## 🛠 Tools & Libraries Used:
+##  Tools & Libraries Used:
 - Python
 - NumPy
 - Pandas
